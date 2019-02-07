@@ -1,0 +1,4 @@
+default_environment: staging
+environments:
+  production: ~
+  staging: ~
