@@ -1,0 +1,3 @@
+steps:
+  - label: Deploy requested
+    command: echo $BUILDKITE_GITHUB_DEPLOYMENT_PAYLOAD
