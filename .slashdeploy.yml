@@ -1,4 +1,6 @@
 default_environment: staging
 environments:
-  production: ~
-  staging: ~
+  production:
+    aliases: []
+  staging:
+    aliases: []
