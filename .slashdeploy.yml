@@ -3,4 +3,5 @@ environments:
   production: ~
   staging: ~
   
+  hi: ~
   
