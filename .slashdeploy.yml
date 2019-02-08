@@ -3,3 +3,5 @@ environments:
     aliases: []
   staging:
     aliases: []
+  pre_prod:
+    aliases: []
