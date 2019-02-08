@@ -5,3 +5,5 @@ environments:
     aliases: []
   pre_prod:
     aliases: []
+  another:
+    aliases: []
