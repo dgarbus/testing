@@ -4,4 +4,4 @@ environments:
   staging:
     aliases: []
   new_one:
-    aliases: ~
+    aliases: []
